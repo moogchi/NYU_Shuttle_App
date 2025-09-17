@@ -1,0 +1,706 @@
+{
+  "stops": {
+    "715 Broadway": { "lat": 40.729202061577354, "lng": -73.99371709754304 },
+    "Broadway & Broome St.": { "lat": 40.72139662156164, "lng": -74.00030478757698 },
+    "80 Lafayette": { "lat": 40.717048833156696, "lng": -74.00195264302864 },
+    "6 MetroTech Center": { "lat": 40.69465777168644, "lng": -73.98616254455258 },
+    "Cadman Plaza & Clark St.": { "lat": 40.69701470044484, "lng": -73.99151990749537 },
+    "Cleveland & Spring St.": { "lat": 40.72203215972622, "lng": -73.99711993429823 },
+    "Lafayette & E 4th St.": { "lat": 40.7280404402264, "lng": -73.99287038163204 },
+    "Greenwich Hall": { "lat": 40.73130444073524, "lng": -74.00804431409932 },
+    "20th St & Loop Exit": { "lat": 40.73410154393626, "lng": -73.9774905013965 },
+    "Ave C & 18th St.": { "lat": 40.731005101505865, "lng": -73.97414346142153 },
+    "Ave. C & 16th St.": { "lat": 40.72974691167394, "lng": -73.97467415257213 },
+    "Ave. C & 14th St.": { "lat": 40.728406866514305, "lng": -73.97561661843062 },
+    "14th St. & Ave. B": { "lat": 40.729534766241066, "lng": -73.97797419025594 },
+    "14th St. & Ave. A": { "lat": 40.730475094168774, "lng": -73.98031517049708 },
+    "14th St. & 1st Ave.": { "lat": 40.73136868583959, "lng": -73.98252699183686 },
+    "3rd Ave. & 13th St.": { "lat": 40.73259267539316, "lng": -73.98769240297476 },
+    "14th St at Irving Place (EB)": { "lat": 40.73419174217441, "lng": -73.98910750049912 },
+    "14th St at 3rd Ave.": { "lat": 40.733301386133064, "lng": -73.98713870086152 },
+    "1st Ave. at 17th St.": { "lat": 40.73321266252393, "lng": -73.98121515957014 },
+    "1st Ave. at 24th St.": { "lat": 40.737525983452414, "lng": -73.97803907306225 },
+    "1st Ave. at 26th St.": { "lat": 40.73879288391685, "lng": -73.97715533073396 },
+    "NYU Langone Health": { "lat": 40.742377689696255, "lng": -73.97425854507982 },
+    "Lexington Ave. at 31st St.": { "lat": 40.74448378600236, "lng": -73.98108421539013 },
+    "Gramercy Green": { "lat": 40.73929849682038, "lng": -73.98302315957002 },
+    "3rd Ave. at 17th St.": { "lat": 40.73520804857521, "lng": -73.98585469503853 },
+    "14th St at Irving Place (WB)": { "lat": 40.733946663816766, "lng": -73.98877290196194 },
+    "Morton & Greenwich": { "lat": 40.73105458108127, "lng": -74.00797431539043 }
+  },
+  "buildings": {
+    "80 Washington Square East Gallery": {
+        "lat": 40.7297445,
+        "lng": -73.9961936
+    },
+    "404 Fitness": {
+        "lat": 40.7284921,
+        "lng": -73.9930117
+    },
+    "Athletics": {
+        "lat": 40.7268084,
+        "lng": -73.99709469999999
+    },
+    "Academic Resource Center": {
+        "lat": 40.7296518,
+        "lng": -73.9957144
+    },
+    "Admissions Office": {
+        "lat": 40.7275654,
+        "lng": -73.9930117
+    },
+    "Africa House": {
+        "lat": 40.73139339999999,
+        "lng": -73.9952958
+    },
+    "Alumni Hall": {
+        "lat": 40.8096187,
+        "lng": -73.92936399999999
+    },
+    "Alumni Relations": {
+        "lat": 40.7387708,
+        "lng": -73.9914021
+    },
+    "Arthur L Carter Hall": {
+        "lat": 40.7293597,
+        "lng": -73.9949074
+    },
+    "Barney Building": {
+        "lat": 40.7298208,
+        "lng": -73.9879827
+    },
+    "Bobst Library": {
+        "lat": 40.7296301,
+        "lng": -73.99707769999999
+    },
+    "Bonomi Family NYU Admissions Center": {
+        "lat": 40.7292317,
+        "lng": -73.9954748
+    },
+    "Bookstore and Computer Store": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "Brittany Hall": {
+        "lat": 40.73205189999999,
+        "lng": -73.9918003
+    },
+    "Bronfman Center": {
+        "lat": 40.733284,
+        "lng": -73.99465049999999
+    },
+    "Broome Street Residence": {
+        "lat": 40.7208939,
+        "lng": -73.997345
+    },
+    "Brown Building": {
+        "lat": 40.7300415,
+        "lng": -73.9955935
+    },
+    "Campus Safety": {
+        "lat": 40.7296606,
+        "lng": -73.99447889999999
+    },
+    "Cantor Film Center": {
+        "lat": 40.7311329,
+        "lng": -73.9945049
+    },
+    "Card Center": {
+        "lat": 40.7296606,
+        "lng": -73.99447889999999
+    },
+    "Carlyle Court": {
+        "lat": 40.7362808,
+        "lng": -73.99105569999999
+    },
+    "Casa Italiana Zerilli-Marim": {
+        "lat": 40.7348821,
+        "lng": -73.99587509999999
+    },
+    "Center for Genomics and Systems Biology": {
+        "lat": 37.7935019,
+        "lng": -122.4065443
+    },
+    "College of Arts and Science (Interim)": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "College of Dentistry": {
+        "lat": 40.73792539999999,
+        "lng": -73.9784116
+    },
+    "Copy Central": {
+        "lat": 40.7286248,
+        "lng": -73.9980818
+    },
+    "Coral Towers": {
+        "lat": 40.8096153,
+        "lng": -73.9293686
+    },
+    "Courant Institute of Mathematical Sciences": {
+        "lat": 40.7286683,
+        "lng": -73.9957013
+    },
+    "D\u2019Agostino Hall": {
+        "lat": 40.7301627,
+        "lng": -73.99995419999999
+    },
+    "Deutsches Haus": {
+        "lat": 40.7313517,
+        "lng": -73.99521779999999
+    },
+    "East Building": {
+        "lat": 33.4693708,
+        "lng": -81.95350289999999
+    },
+    "Education Building": {
+        "lat": 40.7294311,
+        "lng": -73.9960329
+    },
+    "Faculty of Arts and Science": {
+        "lat": 40.7311579,
+        "lng": -73.99588109999999
+    },
+    "Founders Hall": {
+        "lat": 40.7321762,
+        "lng": -73.9893736
+    },
+    "Furman Hall": {
+        "lat": 40.730395,
+        "lng": -73.9989887
+    },
+    "Gallatin School of Individualized Study": {
+        "lat": 40.7292363,
+        "lng": -73.9938866
+    },
+    "Global Center for Academic and Spiritual Life (GCASL)": {
+        "lat": 40.7299053,
+        "lng": -73.9981734
+    },
+    "Global Inclusion, Diversity, and Strategic Innovation Office": {
+        "lat": 40.7295614,
+        "lng": -73.9953712
+    },
+    "Global Liberal Studies": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "Global Programs": {
+        "lat": 40.7275654,
+        "lng": -73.9930117
+    },
+    "Global Services": {
+        "lat": 40.7275654,
+        "lng": -73.9930117
+    },
+    "Glucksman Ireland House": {
+        "lat": 40.7317275,
+        "lng": -73.99650299999999
+    },
+    "Goddard Hall": {
+        "lat": 40.729676,
+        "lng": -73.99634770000002
+    },
+    "Graduate School of Arts and Science": {
+        "lat": 40.7312383,
+        "lng": -73.9962764
+    },
+    "Gramercy Green": {
+        "lat": 40.8116766,
+        "lng": -73.926668
+    },
+    "Greenwich Hall": {
+        "lat": 40.731311,
+        "lng": -74.00822
+    },
+    "Grey Art Gallery": {
+        "lat": 40.7304094,
+        "lng": -73.9957319
+    },
+    "Hayden Hall": {
+        "lat": 40.7277519,
+        "lng": -73.99546629999999
+    },
+    "Institute for the Study of the Ancient World": {
+        "lat": 40.7799188,
+        "lng": -73.96027459999999
+    },
+    "Institute of Fine Arts": {
+        "lat": 40.7764996,
+        "lng": -73.9636266
+    },
+    "Institute of French Studies": {
+        "lat": 40.7312425,
+        "lng": -73.9954565
+    },
+    "Jeffrey S. Gould Welcome Center": {
+        "lat": 40.7293836,
+        "lng": -73.99641299999999
+    },
+    "John W. Draper Program": {
+        "lat": 40.7315506,
+        "lng": -73.9950811
+    },
+    "Kaufman Management Center": {
+        "lat": 40.7291433,
+        "lng": -73.9962607
+    },
+    "Kevorkian Center": {
+        "lat": 40.7304667,
+        "lng": -73.9988685
+    },
+    "Kimball Hall": {
+        "lat": 40.7301279,
+        "lng": -73.9948173
+    },
+    "Kimmel Center for University Life": {
+        "lat": 40.72985329999999,
+        "lng": -73.9978126
+    },
+    "King Juan Carlos I of Spain Center": {
+        "lat": 40.7303742,
+        "lng": -73.9986799
+    },
+    "LaGuardia Computer Lab": {
+        "lat": 40.7286248,
+        "lng": -73.9980818
+    },
+    "LaGuardia Student Technology Center": {
+        "lat": 40.7286248,
+        "lng": -73.9980818
+    },
+    "La Maison Fran\u00e7aise": {
+        "lat": 40.7311694,
+        "lng": -73.9953812
+    },
+    "Lafayette Residence Hall": {
+        "lat": 40.7172292,
+        "lng": -74.0020651
+    },
+    "Liberal Studies": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "Lillian Vernon Center": {
+        "lat": 40.7343531,
+        "lng": -73.997993
+    },
+    "Lipton Hall": {
+        "lat": 40.7314987,
+        "lng": -73.99933639999999
+    },
+    "Loewe Theater": {
+        "lat": 40.7294311,
+        "lng": -73.9960329
+    },
+    "Mail Services": {
+        "lat": 40.7286248,
+        "lng": -73.9980818
+    },
+    "Meyer Hall": {
+        "lat": 40.7291668,
+        "lng": -73.9943
+    },
+    "Moses Center for Students with Disabilities": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "SPS Midtown Center": {
+        "lat": 40.7540388,
+        "lng": -73.9817685
+    },
+    "Second Street Residence": {
+        "lat": 40.7254116,
+        "lng": -73.99190089999999
+    },
+    "Seventh Street Residence": {
+        "lat": 40.7281308,
+        "lng": -73.9889792
+    },
+    "Shimkin Hall": {
+        "lat": 40.7293836,
+        "lng": -73.99641299999999
+    },
+    "Silver Center for Arts and Science": {
+        "lat": 40.7304094,
+        "lng": -73.9957319
+    },
+    "Silver School of Social Work": {
+        "lat": 40.7308788,
+        "lng": -73.9956258
+    },
+    "Silver Towers": {
+        "lat": 40.7268035,
+        "lng": -73.9979682
+    },
+    "Skirball Center for the Performing Arts": {
+        "lat": 40.7298822,
+        "lng": -73.9976363
+    },
+    "Skirball Dept. of Hebrew and Judaic Studies": {
+        "lat": 40.7303742,
+        "lng": -73.9986799
+    },
+    "Steinhardt School of Culture, Education and Human Development": {
+        "lat": 40.7299217,
+        "lng": -73.99603379999999
+    },
+    "Stern School of Business, Graduate Program": {
+        "lat": 40.7291433,
+        "lng": -73.9962607
+    },
+    "Stern School of Business, Undergraduate College": {
+        "lat": 40.7287702,
+        "lng": -73.9961905
+    },
+    "StudentLink Center": {
+        "lat": 40.7275654,
+        "lng": -73.9930117
+    },
+    "Student Health Center": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "Student Resource Center": {
+        "lat": 40.72985329999999,
+        "lng": -73.9978126
+    },
+    "Third Avenue North Residence": {
+        "lat": 40.8096187,
+        "lng": -73.92936399999999
+    },
+    "Thirteenth Street Residence": {
+        "lat": 40.7362169,
+        "lng": -73.9966079
+    },
+    "Tisch Hall": {
+        "lat": 40.7287702,
+        "lng": -73.9961905
+    },
+    "Tisch School of the Arts": {
+        "lat": 40.72952550000001,
+        "lng": -73.9938442
+    },
+    "Torch Club": {
+        "lat": 37.7936313,
+        "lng": -122.4065635
+    },
+    "University Hall": {
+        "lat": 40.7336754,
+        "lng": -73.9891322
+    },
+    "Vanderbilt Hall": {
+        "lat": 40.7305635,
+        "lng": -73.9995861
+    },
+    "Virginia & Muriel Pless Building": {
+        "lat": 40.7297445,
+        "lng": -73.9961936
+    },
+    "Wagner Graduate School of Public Service": {
+        "lat": 40.7244739,
+        "lng": -73.995445
+    },
+    "Warren Weaver Hall": {
+        "lat": 40.7286683,
+        "lng": -73.9957013
+    },
+    "Wasserman Center for Career Development": {
+        "lat": 40.7334007,
+        "lng": -73.9884206
+    },
+    "Washington Square Village": {
+        "lat": 40.7282594,
+        "lng": -73.9965635
+    },
+    "Washington Square Windows": {
+        "lat": 40.7297445,
+        "lng": -73.9961936
+    },
+    "Waverly Building": {
+        "lat": 55.9580056,
+        "lng": -3.1682524
+    },
+    "Weinstein Hall": {
+        "lat": 40.7311022,
+        "lng": -73.9950258
+    },
+    "Wilf Hall": {
+        "lat": 40.7309367,
+        "lng": -73.9998772
+    },
+    "10 Astor Place": {
+        "lat": 40.7297475,
+        "lng": -73.9922208
+    },
+    "665 Broadway": {
+        "lat": 40.7273417,
+        "lng": -73.9957186
+    },
+    "726 Broadway": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "20 Cooper Square": {
+        "lat": 40.7279715,
+        "lng": -73.9915761
+    },
+    "14 East 4th Street (NYU Shanghai)": {
+        "lat": 40.7280788,
+        "lng": -73.993769
+    },
+    "105 East 17th Street": {
+        "lat": 40.7363994,
+        "lng": -73.98801259999999
+    },
+    "60 Fifth Avenue": {
+        "lat": 40.735016,
+        "lng": -73.99480199999999
+    },
+    "244 Greene Street": {
+        "lat": 40.7299347,
+        "lng": -73.9950254
+    },
+    "411 Lafayette Street": {
+        "lat": 40.7283298,
+        "lng": -73.9921394
+    },
+    "130 MacDougal Street": {
+        "lat": 40.7301484,
+        "lng": -74.0001581
+    },
+    "181 Mercer Street": {
+        "lat": 40.7268084,
+        "lng": -73.99709469999999
+    },
+    "194-196 Mercer Street, 627 Broadway": {
+        "lat": 40.7262911,
+        "lng": -73.9969574
+    },
+    "285 Mercer Street": {
+        "lat": 40.7297929,
+        "lng": -73.9943454
+    },
+    "111-113 Second Avenue": {
+        "lat": 40.7278348,
+        "lng": -73.9886502
+    },
+    "13-19 University Place": {
+        "lat": 40.7312442,
+        "lng": -73.9949128
+    },
+    "19 Washington Square North (NYUAD)": {
+        "lat": 40.7319294,
+        "lng": -73.9975695
+    },
+    "22 Washington Square North": {
+        "lat": 40.732025,
+        "lng": -73.9979472
+    },
+    "19 West 4th Street": {
+        "lat": 40.72910359999999,
+        "lng": -73.9951974
+    },
+    "25 West 4th Street": {
+        "lat": 40.7291951,
+        "lng": -73.99540499999999
+    },
+    "Palladium Athletic Facility": {
+        "lat": 40.7334007,
+        "lng": -73.9884206
+    },
+    "Palladium Hall": {
+        "lat": 40.7334007,
+        "lng": -73.9884206
+    },
+    "Philosophy Building": {
+        "lat": 40.7294569,
+        "lng": -73.9943479
+    },
+    "Pless Annex": {
+        "lat": 40.7299034,
+        "lng": -73.99579659999999
+    },
+    "Pless Hall, Joseph & Violet": {
+        "lat": 40.7299217,
+        "lng": -73.99603379999999
+    },
+    "Provincetown Playhouse": {
+        "lat": 40.7307554,
+        "lng": -74.00000519999999
+    },
+    "Psychology Building": {
+        "lat": 40.7291919,
+        "lng": -73.994354
+    },
+    "Puck Building": {
+        "lat": 40.7244739,
+        "lng": -73.995445
+    },
+    "Residential Life and Housing Services": {
+        "lat": 40.7289034,
+        "lng": -73.9926445
+    },
+    "Rory Meyers College of Nursing": {
+        "lat": 40.7387155,
+        "lng": -73.9777228
+    },
+    "Rubin Hall": {
+        "lat": 40.7334731,
+        "lng": -73.99505479999999
+    },
+    "Rufus D. Smith Hall": {
+        "lat": 55.9580056,
+        "lng": -3.1682524
+    },
+    "School of Global Public Health": {
+        "lat": 40.7287074,
+        "lng": -73.99375239999999
+    },
+    "School of Law": {
+        "lat": 40.7305635,
+        "lng": -73.9995861
+    },
+    "School of Professional Studies (SPS)": {
+        "lat": 40.7345212,
+        "lng": -73.99372579999999
+    },
+    "Dibner Building": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Bern Dibner Library of Science & Technology": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Office of Student Affairs": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Office of Undergraduate Academics": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Pfizer Auditorium": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Consolidated Services for Bursar, Financial Aid, Registrar, Global Programs and Global Services": {
+        "lat": 40.6945396,
+        "lng": -73.98567589999999
+    },
+    "Jacobs Administrative Building": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "Othmer Residence Hall": {
+        "lat": 40.6951115,
+        "lng": -73.9862737
+    },
+    "Rogers Hall / Jacobs Academic Building": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "Brooklyn Athletic Facility": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "Computer Lab": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "Jasper Kane Cafe": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "Laptop Help Desk": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "MakerSpace": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "24/7 Student Print Station": {
+        "lat": 40.6945309,
+        "lng": -73.986125
+    },
+    "St. George Clark Residence Hall": {
+        "lat": 40.6978905,
+        "lng": -73.9939012
+    },
+    "Wunsch Hall": {
+        "lat": 33.24598280000001,
+        "lng": -80.8191902
+    },
+    "Admissions": {
+        "lat": 33.24598280000001,
+        "lng": -80.8191902
+    },
+    "325 Gold Street": {
+        "lat": 40.6946118,
+        "lng": -73.98295949999999
+    },
+    "MakerGarage": {
+        "lat": 40.6946118,
+        "lng": -73.98295949999999
+    },
+    "370 Jay Street": {
+        "lat": 40.6931509,
+        "lng": -73.9874462
+    },
+    "Copy and Mail Center": {
+        "lat": 40.6931509,
+        "lng": -73.9874462
+    },
+    "Future Labs (Data, Urban, Veterans)": {
+        "lat": 40.6931509,
+        "lng": -73.9874462
+    },
+    "370 Jay Cafe": {
+        "lat": 40.6931509,
+        "lng": -73.9874462
+    },
+    "1 MetroTech Center": {
+        "lat": 40.6932688,
+        "lng": -73.98710059999999
+    },
+    "Tandon School of Engineering Dean\u2019s Office": {
+        "lat": 40.6932688,
+        "lng": -73.98710059999999
+    },
+    "2 MetroTech Center": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "Center for K-12 STEM Education": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "Commuter Student Lounge": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "Expository Writing Program": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "NYU Card Center": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "Tandon Career Hub": {
+        "lat": 40.6941697,
+        "lng": -73.9857577
+    },
+    "1 Pierrepont Plaza, 300 Cadman Plaza W": {
+        "lat": 40.6951206,
+        "lng": -73.9910556
+    },
+    "87 Thirty-Fifth Street (Industry City)": {
+        "lat": 40.7673411,
+        "lng": -73.9164069
+    }
+}
+
+  }
